@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f73a939a60aa8e50d2e83b33d732542",
+    "revision": "7f8de94357ccc935d6273a123866fb90",
     "url": "/index.html"
   },
   {
-    "revision": "b4b5a4305c5086ce6401",
+    "revision": "f7afc84358f013063033",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
+    "revision": "4f86de8502822817a581",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "bfd7a3dbab7015462a1d",
+    "revision": "4db7ecf80ed7418cf9ae",
     "url": "/static/css/main.80ced110.chunk.css"
   },
   {
-    "revision": "363cba3172571f593c67",
-    "url": "/static/js/2.8154adbc.chunk.js"
+    "revision": "0a3d409365fbad2903ea",
+    "url": "/static/js/2.113993a6.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.8154adbc.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.113993a6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4b5a4305c5086ce6401",
-    "url": "/static/js/3.666e9c60.chunk.js"
+    "revision": "f7afc84358f013063033",
+    "url": "/static/js/3.b6a4d920.chunk.js"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
-    "url": "/static/js/4.aa2ec175.chunk.js"
+    "revision": "4f86de8502822817a581",
+    "url": "/static/js/4.651aed64.chunk.js"
   },
   {
-    "revision": "bfd7a3dbab7015462a1d",
-    "url": "/static/js/main.7baf7670.chunk.js"
+    "revision": "4db7ecf80ed7418cf9ae",
+    "url": "/static/js/main.061e3cf0.chunk.js"
   },
   {
-    "revision": "7e5946f9c54351c476c7",
-    "url": "/static/js/runtime-main.3b7d4056.js"
+    "revision": "77a02a4c746d223050c7",
+    "url": "/static/js/runtime-main.ff3d5aab.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -90,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
-  },
-  {
-    "revision": "2adbb13a6e2130e3e49482c68e3a6d30",
-    "url": "/static/media/virya.2adbb13a.jfif"
   },
   {
     "revision": "3b6357ea29e67986c2f5f4d46e5f0cab",
