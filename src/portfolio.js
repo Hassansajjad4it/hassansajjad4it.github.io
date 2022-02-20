@@ -175,7 +175,7 @@ const workExperiences = {
       role: "Full Stack Developer",
       company: "Ziegal",
       companylogo: require("./assets/images/z.jfif"),
-      date: "June 2021 – Present",
+      date: "June 2021 – Nov 2021",
       desc: "Ziegal is ready to boost the UK's global internet ranking, and provide all UK citizens with a low cost, fibre optic internet connectivity for both fixed line broadband and mobile data.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
