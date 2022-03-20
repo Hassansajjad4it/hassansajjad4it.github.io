@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e454891e1ef79f01b88d24c61a21f7a",
+    "revision": "13b564eebf833649491f7fa0b21e7fdd",
     "url": "/index.html"
   },
   {
-    "revision": "f8bda1a615d42a10160f",
+    "revision": "dc0b96c79b1db831dd9b",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "4f86de8502822817a581",
+    "revision": "08124f85392cc521569f",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "87f41f2ebbb7144b365f",
+    "revision": "340eb1fb2984daa7ff11",
     "url": "/static/css/main.80ced110.chunk.css"
   },
   {
-    "revision": "a7256380a68eb17f628f",
-    "url": "/static/js/2.24014919.chunk.js"
+    "revision": "6b48d8bb57adc4f45497",
+    "url": "/static/js/2.90afb488.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.24014919.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.90afb488.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8bda1a615d42a10160f",
-    "url": "/static/js/3.8ab3d230.chunk.js"
+    "revision": "dc0b96c79b1db831dd9b",
+    "url": "/static/js/3.aa163bbd.chunk.js"
   },
   {
-    "revision": "4f86de8502822817a581",
-    "url": "/static/js/4.651aed64.chunk.js"
+    "revision": "08124f85392cc521569f",
+    "url": "/static/js/4.221f4606.chunk.js"
   },
   {
-    "revision": "87f41f2ebbb7144b365f",
-    "url": "/static/js/main.058312ce.chunk.js"
+    "revision": "340eb1fb2984daa7ff11",
+    "url": "/static/js/main.318770d3.chunk.js"
   },
   {
-    "revision": "6eb8d2bdbfb2887e318c",
-    "url": "/static/js/runtime-main.bd9d214e.js"
+    "revision": "1a3d8f9823c420650441",
+    "url": "/static/js/runtime-main.e6f38d22.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "c9084d327fbfb5dd0a727bd356ad6a5f",
+    "url": "/static/media/marketing.c9084d32.jfif"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
