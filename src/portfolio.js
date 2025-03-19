@@ -14,7 +14,7 @@ const greeting = {
   username: "Hassan Sajjad",
   title: "Hi all, I'm Hassan",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications and Data Analysis with Python / Django / Google Cloud Plateform / JavaScript / Pandas / Matplotlib / Tableau  and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications and Data Analysis with Python / Django / Google Cloud Plateform / JavaScript / Pandas / Matplotlib / Tableau  and other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/drive/folders/13cQl2Fb5_gKkiOmtHAn6mf6Lw2pt2ZFL", // Set to empty to hide the button
