@@ -1,4 +1,4 @@
-name: Check Format
+name: Check and Fix Format
 on:
   push:
   pull_request:
@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  check-format:
+  format-check:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -17,11 +17,19 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18' # Ensure Node.js 14+ is used
+          node-version: '18'
 
       - name: Install Prettier
         run: npm install -g prettier
 
-      - name: Check Format
+      - name: Fix Formatting Issues
+        run: prettier --write "./**/*.{js,css,json}"
+
+      - name: Commit Changes
         run: |
-          prettier -c "./**/*.{js,css,json}"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: auto-format files using Prettier" || echo "No changes to commit"
+          git push
+        continue-on-error: true
